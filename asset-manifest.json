@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pok/static/css/main.1d9b7a6a.chunk.css",
+    "main.js": "/pok/static/js/main.dc2d574f.chunk.js",
+    "main.js.map": "/pok/static/js/main.dc2d574f.chunk.js.map",
+    "runtime-main.js": "/pok/static/js/runtime-main.2e9bd32e.js",
+    "runtime-main.js.map": "/pok/static/js/runtime-main.2e9bd32e.js.map",
+    "static/js/2.d7f1b1a0.chunk.js": "/pok/static/js/2.d7f1b1a0.chunk.js",
+    "static/js/2.d7f1b1a0.chunk.js.map": "/pok/static/js/2.d7f1b1a0.chunk.js.map",
+    "static/js/3.897fa6a6.chunk.js": "/pok/static/js/3.897fa6a6.chunk.js",
+    "static/js/3.897fa6a6.chunk.js.map": "/pok/static/js/3.897fa6a6.chunk.js.map",
+    "index.html": "/pok/index.html",
+    "static/css/main.1d9b7a6a.chunk.css.map": "/pok/static/css/main.1d9b7a6a.chunk.css.map",
+    "static/js/2.d7f1b1a0.chunk.js.LICENSE.txt": "/pok/static/js/2.d7f1b1a0.chunk.js.LICENSE.txt",
+    "static/media/e404.eaac6671.png": "/pok/static/media/e404.eaac6671.png",
+    "static/media/teamRocket.47970b49.png": "/pok/static/media/teamRocket.47970b49.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e9bd32e.js",
+    "static/js/2.d7f1b1a0.chunk.js",
+    "static/css/main.1d9b7a6a.chunk.css",
+    "static/js/main.dc2d574f.chunk.js"
+  ]
+}
